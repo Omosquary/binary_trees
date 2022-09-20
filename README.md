@@ -42,7 +42,7 @@ Please use the following data structures and types for binary trees. Don’t for
  * @parent: Pointer to the parent node
  * @left: Pointer to the left child node
  * @right: Pointer to the right child node
- */
+ /
 struct binary_tree_s
 {
     int n;
